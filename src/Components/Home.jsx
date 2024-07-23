@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="home" style={{display:"flex",flexDirection:"column",justifyContent:"center"}}>
       <h1>Welcome to My Portfolio</h1>
-      <h2>Hi, This is Popuri Siva Naga Nithin</h2>
+      <h2>Hi, This is Somireddy Harish Kumar</h2>
       <p>
         I am a passionate and skilled web developer with a strong foundation in front-end development. 
         I have hands-on experience in designing and building dynamic, responsive web applications using 
